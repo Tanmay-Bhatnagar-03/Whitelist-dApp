@@ -199,9 +199,10 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Crypto Devs!</h1>
+          <h1 className={styles.title}>Welcome to Brahmaputra Hostel!</h1>
           <div className={styles.description}>
-            Its an NFT collection for developers in Crypto.
+            Its an NFT collection for depicting hostel culture in Brahmaputra
+            Hostel.
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist
@@ -213,9 +214,7 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className={styles.footer}>
-        Made with &#10084; by Crypto Devs
-      </footer>
+      <footer className={styles.footer}>Made with &#10084; by Tanmay</footer>
     </div>
   );
 }
