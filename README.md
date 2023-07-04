@@ -7,7 +7,7 @@ https://whitelist-dapp-nu-seven.vercel.app/
 
 ## More Details
 
-The dApp has been deployed on Sepolia Testnet of Ethereum. The backend of the dApp has been created using `Hardhat` and is available in the [hardhat-tutorial](https://github.com/Tanmay-Bhatnagar-03/Whitelist-dApp/tree/main/hardhat-tutorial) directory. 
+The dApp has been deployed on Sepolia Testnet of Ethereum. The backend of the dApp has been created using [Hardhat](https://hardhat.org/) and is available in the [hardhat-tutorial](https://github.com/Tanmay-Bhatnagar-03/Whitelist-dApp/tree/main/hardhat-tutorial) directory. 
 
 ## Upcoming
 
