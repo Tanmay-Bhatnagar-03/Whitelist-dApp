@@ -13,8 +13,11 @@ The frontend of the website has been created by [Next.js](https://nextjs.org/) a
 
 ## Upcoming
 
-- [x] I have done this activity
-- [ ] I plan to do this activity next
+- [x] The dApp connects to the wallet automatically.
+- [x] Project has been deployed on Sepolia and hence, users have to change their network to Sepolia before complete functionality is unlocked.
+- [x] The upper limit on whitelisted users has been set to 10.
+- [x] On clicking one button, the wallet address (public key) gets stored in the contract and can be accessed by the contract owner at any time.
+- [ ] The whitelisted users have to be given special privileges in the upcoming projects, such as NFT minting, token minting, etc.
 
 ## Contribution
 
