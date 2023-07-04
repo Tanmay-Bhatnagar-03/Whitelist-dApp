@@ -7,7 +7,7 @@ https://whitelist-dapp-nu-seven.vercel.app/
 
 ## More Details
 
-I can explain how my project works here with different topics.
+The dApp has been deployed on Sepolia Testnet of Ethereum. The backend of the dApp has been created using `Hardhat` and is available in the 
 
 ## Upcoming
 
