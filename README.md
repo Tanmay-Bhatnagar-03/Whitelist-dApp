@@ -2,12 +2,13 @@
 
 This project creates a website (dApp) where users can be whitelisted and the list of whitelisted users is saved on-chain.<br />
 
-The project can be viewed on: [Whitelist Dapp](https://whitelist-dapp-nu-seven.vercel.app/)
+The project can be viewed [here](https://whitelist-dapp-nu-seven.vercel.app/) <br />
+
 The contract can be accessed [here](https://sepolia.etherscan.io/address/0x8A584DAee7EE0F2E6E216f38e0e3CEAA70224962)
 
 ## More Details
 
-The dApp has been deployed on Sepolia Testnet of Ethereum. The backend of the dApp has been created using [Hardhat](https://hardhat.org/) and is available in the [hardhat-tutorial](https://github.com/Tanmay-Bhatnagar-03/Whitelist-dApp/tree/main/hardhat-tutorial) directory. Whitelist smart contract script is available in [hardhat-tutorial/contracts](https://github.com/Tanmay-Bhatnagar-03/Whitelist-dApp/tree/main/hardhat-tutorial/contracts) directory and it is written in [Solidity](https://soliditylang.org/). <br/>
+The dApp has been deployed on Sepolia Testnet of Ethereum. The backend of the dApp has been created using [Hardhat](https://hardhat.org/) and is available in the [hardhat-tutorial](https://github.com/Tanmay-Bhatnagar-03/Whitelist-dApp/tree/main/hardhat-tutorial) directory. Whitelist smart contract script is available in [hardhat-tutorial/contracts](https://github.com/Tanmay-Bhatnagar-03/Whitelist-dApp/tree/main/hardhat-tutorial/contracts) directory and it is written in [Solidity](https://soliditylang.org/). <br />
 
 
 ## Upcoming
